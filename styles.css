@@ -1,0 +1,55 @@
+
+.heading
+{
+	color:red;
+	font-size: 40px;
+	margin-left: 180px;
+}
+
+.description
+{
+	color:	#A9A9A9;
+	font-size: 20px;
+	border-style: dotted;
+    border-width: 2px 10px 4px 20px;
+    padding: 40px 30px 20px 10px;
+    background-color: orange;
+}
+
+.image
+{width: 50px;
+position: cx=10 cy=20;}
+
+.chart
+{
+	height: 800px;
+	width: 600px;
+}
+
+.circ1 {
+    stroke: black; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ2 {
+    stroke: black; 
+    fill: white;
+    stroke-width: 8;
+}
+.circ3 {
+    stroke: black; 
+    fill: white;
+    stroke-width: 10;
+}
+
+.hand{
+	stroke: black;
+	fill: white;
+	stroke-width: 5;
+}
+
+.legs{
+	stroke: black;
+	fill: white;
+	stroke-width: 5;
+}
